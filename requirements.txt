@@ -4,3 +4,4 @@ pandas
 modelscope
 funasr
 addict
+datasets
